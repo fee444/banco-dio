@@ -11,7 +11,7 @@
 <br>
 
 <h3>Relação PRODUTO, FORNECEDOR E ESTOQUE</h3>
-<img src="https://raw.githubusercontent.com/fee444/banco-dio/main/relação.jpeg" width="500"/>
+<img src="https://raw.githubusercontent.com/fee444/banco-dio/main/relaçao.jpeg" width="500"/>
 <br>
 
 <h3>Relação de nomes dos fornecedores e nomes dos produtos</h3>
